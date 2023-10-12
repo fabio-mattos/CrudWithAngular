@@ -1,5 +1,9 @@
-# CrudWithAngular
+# Crud com Angular e Jsoin-server
 
-Testando CRUD usando frontend com Angular
+### Backand com json-server
+   Para iniciar o banckend
+     npm start
 
-Backand com json-server
+
+### Frontend com Angular
+    npm start
