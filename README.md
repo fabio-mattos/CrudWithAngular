@@ -1,2 +1,5 @@
 # CrudWithAngular
-Testando CRUD com Angular e Json-Server
+
+Testando CRUD usando frontend com Angular
+
+Backand com json-server

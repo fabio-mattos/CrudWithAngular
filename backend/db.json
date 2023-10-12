@@ -1,0 +1,19 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Caneta BIC Preta",
+        "price": 5.89
+    },
+    {
+        "id": 2,
+        "name": "Notebook Acer",
+        "price": 6900.00
+    },
+    {
+        "id": 3,
+        "name": "Sansumg S20",
+        "price": 5900.00
+    }
+
+    ]
+}
