@@ -5,10 +5,15 @@ Este é só um projeto simples para testar as funcionalidades do Angular e Json-
 
 ### Backand com json-server
 Para iniciar o backend:
-   
-      Comando:   npm start
+     
+    Digitar o comando abaixo, dentro da pasta raiz onde está o arquivo package.json:   
+
+    npm start
 
 
 ### Frontend com Angular
-    Para iniciar o frontend
-    Comando:   npm start
+    Para iniciar o frontend:
+
+    Digitar o comando abaixo, dentro da pasta raiz onde está o arquivo package.json:   
+    
+    npm start

@@ -10,6 +10,12 @@ import { Product } from './../product.model';
 })
 export class ProductCreateComponent implements OnInit {
 
+
+product: Product = {
+  name: 'Teste',
+  price: 10
+}
+
    constructor(private productService: ProductService,
     private router:Router) {}
 
@@ -20,10 +26,13 @@ export class ProductCreateComponent implements OnInit {
 
 
    createProduct(): void {
-    this.productService.showMessage('Produto salvo com sucesso!')
+    this.productService.create(this.product).subscribe(() => {
+      this.productService.showMessage('Produto criado')
+      this.router.navigate(['/products'])
+    })
    }
 
    cancel(): void {
-    this.router.navigate(['/product'])
+    this.router.navigate(['/products'])
    }
 }
