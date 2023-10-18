@@ -19,6 +19,16 @@
       "name": "Teste",
       "price": 10,
       "id": 4
+    },
+    {
+      "name": "Testes 17/10/2023",
+      "price": "500,26",
+      "id": 5
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "0,50",
+      "id": 6
     }
   ]
 }
