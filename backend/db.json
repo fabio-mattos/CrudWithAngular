@@ -26,9 +26,14 @@
       "id": 5
     },
     {
-      "name": "Lapis Preto",
+      "name": "Lapis Preto Carpinteiro",
       "price": "0,50",
       "id": 6
+    },
+    {
+      "name": "Novo Produto",
+      "price": "120",
+      "id": 7
     }
   ]
 }
